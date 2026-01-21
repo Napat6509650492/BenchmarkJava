@@ -1,7 +1,7 @@
 # OWASP Benchmark for Java
 The OWASP Benchmark Project is a Java test suite designed to verify the speed and accuracy of vulnerability detection tools. It is a fully runnable open source web application that can be analyzed by any type of Application Security Testing (AST) tool, including SAST, DAST (like <a href="https://www.zaproxy.org/">ZAP</a>), and IAST tools. The intent is that all the vulnerabilities deliberately included in and scored by the Benchmark are actually exploitable so it's a fair test for any kind of application vulnerability detection tool.
 
-The Benchmark project also includes scorecard generators for numerous open source and commercial AST tools, and the set of supported tools is growing all the time. This scoring capability is implemented in the BenchmarkUtils project, which is at: https://github.com/OWASP-Benchmark/BenchmarkUtils.
+The Benchmark project also includes scorecard generators for numerous open source and commercial AST tools, and the set of supported tools is growing all the time. This scoring capability is implemented in the BenchmarkUtils project, which is at: https://github.com/OWASP-Benchmark/BenchmarkUtils. 1234ertyhgj
 
 The project documentation is all on the OWASP site at the <a href="https://owasp.org/www-project-benchmark">OWASP Benchmark</a> project pages. Please refer to that site for all the project details.
 
